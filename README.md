@@ -5,7 +5,7 @@
 
 Nikita BAranov
 
--Middle QA qa engineer/Automation QA (Java/Selenium)
+-Qa engineer/Automation QA (Java/Selenium)
 
 -Java front-end developer(for myself)
 
