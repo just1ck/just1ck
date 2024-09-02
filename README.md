@@ -11,7 +11,7 @@ Nikita BAranov
 
 Here are some ideas to get you started:
 
-- I’m currently working on Digex.co
+- I’m currently working on Haier
  
 My Stack:
 - Java
@@ -20,4 +20,4 @@ My Stack:
 - Postman (Automation API tests on JS)
 - Charles/ Fiddler
 - Full Manual testing web or mobile apps
-- Siple sql requests
+- Simple sql requests
