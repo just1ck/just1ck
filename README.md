@@ -16,4 +16,3 @@ My Stack:
 - Postman (Automation API tests on JS)
 - Charles/ Fiddler
 - Full Manual testing web or mobile apps
-- Simple sql requests
