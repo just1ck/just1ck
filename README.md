@@ -5,9 +5,7 @@
 
 Nikita BAranov
 
--Qa engineer/Automation QA (Java/Selenium)
-
--Java front-end developer(for myself)
+-Qa engineer
 
 Here are some ideas to get you started:
 
@@ -15,8 +13,6 @@ Here are some ideas to get you started:
  
 My Stack:
 - Java
-- Java Selenium
-- Java (Android)
 - Postman (Automation API tests on JS)
 - Charles/ Fiddler
 - Full Manual testing web or mobile apps
